@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = tonyanour1@gmail.com
+	name = Tony Nour
